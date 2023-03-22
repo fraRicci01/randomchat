@@ -1,0 +1,109 @@
+body {
+  background-color: transparent;
+}
+
+.sfondo {
+  background-color: #82E0AA;
+  background-image: linear-gradient(#82E0AA, #EAF2F8);
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+.full-height {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.post {
+  width: 90%;
+  margin: auto;
+}
+
+.postButton {
+  height: 70px;
+  width: 100%;
+  border-radius: 5px;
+  border-style: solid;
+  margin: 2px;
+  background-color: transparent;
+}
+
+#bottomNav {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.infinite {
+  border-width: 0;
+  background-color: #EAF2F8;
+  height: 50px;
+  width: 70px;
+}
+
+.infinite:hover {
+  height: 60px;
+  width: 80px;
+}
+
+.navbarButton {
+  border-width: 2px;
+  width: 60px;
+  border-radius: 15px;
+  height: 40px;
+  padding-top: 2px;
+  background-color: transparent;
+  border-color: #148F77;
+  border-style: solid;
+}
+
+.button-container {
+  margin: auto;
+  text-align: center;
+  padding: 0;
+}
+
+.button1:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button2:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.addIcon {
+  height: 40px;
+  border-width: 3px;
+  border-radius: 20px;
+  border-width: 3px;
+  border-color: black;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-style: solid;
+}
+
+.button1 {
+  border-radius: 15px;
+  border-width: 3px;
+  border-color: #148F77;
+  margin: 20px;
+  color: #148F77;
+  border-style: solid;
+}
+
+.button1:hover {
+  border-color: #1D8348;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
