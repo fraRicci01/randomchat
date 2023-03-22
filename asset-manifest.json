@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//fraRicci01.github.io/randomchat/static/css/main.ed0db9c9.css",
+    "main.js": "/http//fraRicci01.github.io/randomchat/static/js/main.1dd45314.js",
+    "static/js/787.39bb0775.chunk.js": "/http//fraRicci01.github.io/randomchat/static/js/787.39bb0775.chunk.js",
+    "index.html": "/http//fraRicci01.github.io/randomchat/index.html",
+    "main.ed0db9c9.css.map": "/http//fraRicci01.github.io/randomchat/static/css/main.ed0db9c9.css.map",
+    "main.1dd45314.js.map": "/http//fraRicci01.github.io/randomchat/static/js/main.1dd45314.js.map",
+    "787.39bb0775.chunk.js.map": "/http//fraRicci01.github.io/randomchat/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0db9c9.css",
+    "static/js/main.1dd45314.js"
+  ]
+}
